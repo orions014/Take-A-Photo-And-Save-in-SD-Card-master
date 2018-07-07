@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\AndroidProjects\Take-A-Photo-And-Save-in-SD-Card-master\SuperCoolCamera.iml" filepath="F:\AndroidProjects\Take-A-Photo-And-Save-in-SD-Card-master\SuperCoolCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Take-A-Photo-And-Save-in-SD-Card-master.iml" filepath="$PROJECT_DIR$/Take-A-Photo-And-Save-in-SD-Card-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
